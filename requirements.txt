@@ -1,0 +1,7 @@
+tensorflow
+gunicorn
+Flask
+librosa
+numpy
+pydub
+pydantic
